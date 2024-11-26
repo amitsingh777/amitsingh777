@@ -33,5 +33,5 @@ I am Amit Singh, an Engineer by heart ❤️. <br/> Living, learning and levelin
 - ⚡ Fun fact: I am looking forward to doing standup comedy soon 😗
 </ul>
 <ul>
-- <a href="https://singhamit.netlify.app/" target="blank">My Portfolio website 🕸️ 🏗️ </a>
+- <a href="https://singhamit.netlify.app/" target="_blank">My Portfolio website 🕸️ 🏗️ </a>
 </ul>
